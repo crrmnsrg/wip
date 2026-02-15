@@ -6,7 +6,7 @@ work in progress
 
 [streets is fighting](/streets-is-fighting.md)
 
-
+...
 
 [derwent](/derwent.md)
 
@@ -16,7 +16,7 @@ work in progress
 
 [on center and high score](/on-center-and-high-score.md)
 
-
+...
 
 [cv](/cv.md)
 
